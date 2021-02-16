@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[CV](./Mario-Vejlupek_Resume.pdf)
+
 <!--
 **elmariofredo/elmariofredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
