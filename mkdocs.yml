@@ -16,5 +16,5 @@ theme:
     scheme: slate
     primary: blue grey
 
-plugins:
-  - social
+# plugins:
+#   - social
