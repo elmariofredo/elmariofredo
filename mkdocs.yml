@@ -1,0 +1,20 @@
+site_name: Mario Vejlupek
+docs_dir: Site
+theme:
+  name: material
+  logo: _assets/pica-pica-color.png
+  favicon: _assets/pica-pica-color.png
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+
+  palette:
+    scheme: slate
+    primary: blue grey
+
+plugins:
+  - social
