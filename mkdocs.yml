@@ -1,3 +1,4 @@
+# https://www.mkdocs.org/user-guide/configuration/
 site_name: Mario Vejlupek
 docs_dir: Site
 theme:
@@ -16,5 +17,5 @@ theme:
     scheme: slate
     primary: blue grey
 
-# plugins:
-#   - social
+plugins:
+  - social
