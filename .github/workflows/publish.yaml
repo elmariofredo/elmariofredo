@@ -16,6 +16,6 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: apt-get install libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
+      - run: sudo apt-get install libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
       - run: pip install git+https://${{ secrets.ACCESS_TOKEN }}@github.com/squidfunk/mkdocs-material-insiders.git@8.1.3-insiders-4.5.0
       - run: mkdocs gh-deploy --force
