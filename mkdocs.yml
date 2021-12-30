@@ -1,5 +1,6 @@
 # https://www.mkdocs.org/user-guide/configuration/
 site_name: Mario Vejlupek
+site_url: https://www.vejlupek.cz
 docs_dir: Site
 theme:
   name: material
