@@ -20,7 +20,7 @@ jobs:
       - name: Install OS dependencies
         run: sudo apt-get install libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
       - name: Install Keyring for pip
-        run: pip install keyring==23.4.0
+        run: pip install keyring==23.4.0 dbus-python==1.2.18 secretstorage==3.3.1
       - name: Set Github token to Keyring
         run: echo "${{ secrets.ACCESS_TOKEN }}" | keyring set github.com ""
       - name: Install keyring for pip
