@@ -1,10 +1,15 @@
 # https://www.mkdocs.org/user-guide/configuration/
 site_name: Mario Vejlupek
+site_author: Mario Vejlupek
+site_description: >-
+  Personal website of Mario Vejlupek
 site_url: https://www.vejlupek.cz
+repo_url: https://github.com/elmariofredo/elmariofredo
 docs_dir: Site
 theme:
   name: material
   logo: _assets/pica-pica-color.png
+
   favicon: _assets/pica-pica-color.png
 
   features:
@@ -19,4 +24,29 @@ theme:
     primary: blue grey
 
 plugins:
+  - search
   - social
+  - tags:
+      tags_file: Topics.md
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      type: timeago
+
+
+markdown_extensions:
+  - meta
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/elmariofredo
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mariovejlupek
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/mariovejlupek
+
+nav:
+  - About me: README.md
+  - Knowledge Base: Knowledge Base.md
+  - Topics: Topics.md
