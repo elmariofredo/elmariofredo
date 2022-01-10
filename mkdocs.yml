@@ -36,6 +36,7 @@ plugins:
 
 markdown_extensions:
   - meta
+  - attr_list
 
 extra:
   social:
