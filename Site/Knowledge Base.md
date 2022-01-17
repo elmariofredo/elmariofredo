@@ -21,3 +21,4 @@
 > 5. `Where` we will implement it? Cloud? On-prem? Shed? Attic?  
 > 6. `How` to successfuly build our project based on all previous questions.
 
+### 🖐 Use [5 Whys methodology](https://en.wikipedia.org/wiki/Five_whys) if something broke up
