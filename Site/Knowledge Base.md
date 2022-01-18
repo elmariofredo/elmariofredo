@@ -29,6 +29,6 @@
 > 4. Why? 👉 The alternator belt was well beyond its useful service life and not replaced.
 > 5. Why? 👉 The vehicle was not maintained according to the recommended service schedule. (Root cause)
 
-### [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
+### ☺️ [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
 
 > Never attribute to malice that which is adequately explained by stupidity
