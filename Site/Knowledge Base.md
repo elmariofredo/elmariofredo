@@ -32,3 +32,13 @@
 ### ☺️ [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
 
 > Never attribute to malice that which is adequately explained by stupidity
+
+### DevOps
+
+DevOps is not Person, Team or Tool, DevOps is a **Culture**.
+
+By Culture I mean:
+
+1. End to end Ownership.
+2. Automation where it make sense, which is pretty much everywhere besides prototyping.
+3. Everything as Code. From app, tests deployment, infrastructure and monitoring.
