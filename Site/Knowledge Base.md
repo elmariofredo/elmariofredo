@@ -33,7 +33,7 @@
 
 > Never attribute to malice that which is adequately explained by stupidity
 
-### DevOps
+### 🧫 DevOps
 
 DevOps is not Person, Team or Tool, DevOps is a **Culture**.
 

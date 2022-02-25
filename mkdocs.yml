@@ -32,6 +32,8 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       type: timeago
+  - privacy:
+      download: !ENV [DOWNLOAD, false]
 
 
 markdown_extensions:
