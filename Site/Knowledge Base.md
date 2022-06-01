@@ -42,3 +42,7 @@ By Culture I mean:
 1. End to end Ownership.
 2. Automation where it make sense, which is pretty much everywhere besides prototyping.
 3. Everything as Code. From app, tests deployment, infrastructure and monitoring.
+
+### 🧘 Poject planning
+
+... is hard, because usually client doesn't know what end user needs and developer is trying to keep up with change requests in huge development ecosystem. This will inherently result in delays or a mess, but most probably both. It is ok, we all have to think about development as dangerous journey full of pitfalls, rather then walk in the sunshine. [See nice video from mpj about this topic](https://www.youtube.com/watch?v=6LERX0pLZfs&t=1s )
