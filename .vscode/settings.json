@@ -1,0 +1,7 @@
+{
+  "conventionalCommits.scopes": [
+    "Knowledge Base",
+    "mkdocs",
+    "work journal"
+  ]
+}
