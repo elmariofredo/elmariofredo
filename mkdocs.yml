@@ -5,7 +5,7 @@ site_description: >-
   Personal website of Mario Vejlupek
 site_url: https://www.vejlupek.cz
 repo_url: https://github.com/elmariofredo/elmariofredo
-docs_dir: Site
+docs_dir: WebSite
 theme:
   name: material
   logo: _assets/pica-pica-color.png
@@ -44,6 +44,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/elmariofredo
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/mario.vejlupek.cz
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/mariovejlupek
     - icon: fontawesome/brands/linkedin
